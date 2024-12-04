@@ -8,7 +8,8 @@ This project is based in Vite so you'll need to have the proper versions of node
 
 * Install and configure homebrew (on MacOS)
 * `brew install nvm` 
-* `nvm install 20` 
+* `nvm install 20`
+*` npm install -D vite`
 * run `npm run dev` 
 * Access the application at http://localhost:5173
 * Configure your client side key and metric names in the settings screen 
